@@ -2,6 +2,7 @@
 /**
  *binary_tree_depth - a function
  *@tree: a pointer
+ *Return: num
  */
 size_t binary_tree_depth(const binary_tree_t *tree)
 {
