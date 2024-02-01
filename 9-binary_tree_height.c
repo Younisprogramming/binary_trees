@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- *binary_tree_preorder - a function
+ *binary_tree_height - a function
  *@tree: a pointer
  *Return: 0 or num...
  */
