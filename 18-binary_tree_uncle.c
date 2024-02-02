@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
- *binary_tree_uncle - find the uncle 
- *@node: A pointer 
+ *binary_tree_uncle - find the uncle
+ *@node: A pointer
  *Return: wdwadawd
  */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
